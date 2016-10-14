@@ -1,4 +1,4 @@
-;; ex 1.1
+#lang racket
 
 (define a 3)
 
