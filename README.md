@@ -1,2 +1,2 @@
-# sicp-racket
+# Solutions for SICP
 
